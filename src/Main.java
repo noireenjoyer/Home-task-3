@@ -1,6 +1,5 @@
 import java.io.IOException;
 import java.util.Scanner;
-import java.util.Scanner;
 import java.text.DecimalFormat;
 
 /*Сума продажів товару дорівнює добутку кількості (шт) та ціни.
